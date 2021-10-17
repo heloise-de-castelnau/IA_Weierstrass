@@ -39,4 +39,10 @@ This project uses :
 <img title="Python" alt="python" width="40px" src="https://img.icons8.com/color/32/000000/python--v1.png">|<img title="Colab" alt="Colab" width="40px" src="https://colab.research.google.com/img/colab_favicon_256px.png">|
 |--|--|
 
+## Note
+
+The python code and the report are in French but do not hesitate to contact me if you want more details in English.
+
+### Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 - - -
